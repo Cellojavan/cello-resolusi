@@ -2,3 +2,6 @@
 -membuat web sendiri
 -banyak wawasan
 -banyak rezeki
+*belajar codding
+ ^ php
+ ^ css
