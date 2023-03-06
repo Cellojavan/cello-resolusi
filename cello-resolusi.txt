@@ -3,5 +3,5 @@
 -banyak wawasan
 -banyak rezeki
 *belajar codding
- ^ php
- ^ css
+ ^java
+ ^html
